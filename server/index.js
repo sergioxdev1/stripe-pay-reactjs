@@ -34,3 +34,4 @@ app.post('/api/checkout', async (req, res) => {
 app.listen(3001, () => {
   console.log('Server on Port', 3001);
 });
+//try to depoy to vercel
